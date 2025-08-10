@@ -90,7 +90,7 @@ attemps = 0
 while attemps < 12345677901:
     username = input(' \x1b[0;92mEnter Username: ')
     password = input(' \x1b[0;93mEnter Password: ')
-    if username == 'HASIM' and password == 'CHODI':
+    if username == 'HASIM' and password == 'ALAMGIR':
         print(' \x1b[0;92mYou Have Successfully Logged in.')
         break
     else:
@@ -199,6 +199,7 @@ def fuck_xnxxxxx():
     return url4
 
 ua = 'Mozilla/5.0 (Linux; Android 5.1.1; i-mobile IQ Z PRO Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/422.0.0.18.107;]'
+ua = 'Mozilla/5.0 (Linux; Android 9; TECNO KC6 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36 Instagram 190.0.0.26.119 Android (28/9; 320dpi; 720x1392; TECNO MOBILE LIMITED/TECNO; TECNO KC6; TECNO-KC6; mt6761; ru_RU; 294652157)'
 
 def login(uid):
     try:
